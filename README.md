@@ -1,8 +1,8 @@
-# FINANICIAL INCLUSION
+# Supervised Learning
 #### predicting titanic survivors and spam detection, 10/2/2020
 #### By **Victor Mwenda**
 ## Description
-This is a prediction of the titanic disaster survivors and spam detection
+This is a prediction of the titanic disaster survivors and spam detection using K-Nearest Neighbours and Naive Bayes Classifier respectively
 ## Setup/Installation Requirements
 * Save a copy of the document to your Google Drive
 * Open it using the Google Colaboratory
